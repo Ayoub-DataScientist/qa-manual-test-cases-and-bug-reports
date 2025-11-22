@@ -1,6 +1,6 @@
 # Manual QA Test Cases & Professional Bug Reports
 
-## 🎯 Project Overview
+##  Project Overview
 
 This repository demonstrates **professional manual QA practices** including **test case design**, **bug reporting**, **requirements analysis**, and **test traceability**. It showcases how to document QA work in a professional manner that aligns with industry standards and JIRA conventions.
 
@@ -13,7 +13,7 @@ This repository demonstrates **professional manual QA practices** including **te
 
 ---
 
-## 📋 Contents
+##  Contents
 
 This repository contains:
 
@@ -24,7 +24,7 @@ This repository contains:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 qa-manual-test-cases-and-bug-reports/
@@ -52,7 +52,7 @@ qa-manual-test-cases-and-bug-reports/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Markdown editor or viewer
@@ -69,7 +69,7 @@ qa-manual-test-cases-and-bug-reports/
 
 ---
 
-## 📝 Test Case Format
+##  Test Case Format
 
 Each test case includes:
 - **Test Case ID:** Unique identifier (e.g., TC-001)
@@ -115,7 +115,7 @@ Each test case includes:
 
 ---
 
-## 🐛 Bug Report Format
+##  Bug Report Format
 
 Each bug report includes:
 - **Bug ID:** Unique identifier (e.g., BUG-001)
@@ -165,7 +165,7 @@ does not display a validation error and allows the user to submit the form.
 
 ---
 
-## 📊 Traceability Matrix
+##  Traceability Matrix
 
 The traceability matrix maps requirements to test cases, ensuring complete test coverage.
 
@@ -178,7 +178,7 @@ The traceability matrix maps requirements to test cases, ensuring complete test 
 
 ---
 
-## 📋 Requirements Document
+##  Requirements Document
 
 The requirements document outlines the features and acceptance criteria for the application.
 
@@ -203,7 +203,7 @@ The requirements document outlines the features and acceptance criteria for the 
 
 ---
 
-## 🎓 Key Learnings
+##  Key Learnings
 
 This repository demonstrates:
 1. **Test Case Design:** Writing clear, comprehensive test cases
@@ -214,7 +214,7 @@ This repository demonstrates:
 
 ---
 
-## 🔗 Related Repositories
+##  Related Repositories
 
 - [qa-portfolio-overview](https://github.com/Ayoub-DataScientist/qa-portfolio-overview) - Portfolio map and overview
 - [web-ui-testing-playwright](https://github.com/Ayoub-DataScientist/web-ui-testing-playwright) - Automated UI testing
@@ -223,6 +223,6 @@ This repository demonstrates:
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available under the MIT License.
