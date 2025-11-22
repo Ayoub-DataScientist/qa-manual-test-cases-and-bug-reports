@@ -219,7 +219,7 @@ This repository demonstrates:
 - [qa-portfolio-overview](https://github.com/Ayoub-DataScientist/qa-portfolio-overview) - Portfolio map and overview
 - [web-ui-testing-playwright](https://github.com/Ayoub-DataScientist/web-ui-testing-playwright) - Automated UI testing
 - [api-testing-automation](https://github.com/Ayoub-DataScientist/api-testing-automation) - Automated API testing
-- [test-automation-framework-from-scratch](https://github.com/Ayoub-DataScientist/test-automation-framework-from-scratch) - Advanced framework
+- [test-automation-framework](https://github.com/Ayoub-DataScientist/test-automation-framework) - Advanced framework
 
 ---
 
